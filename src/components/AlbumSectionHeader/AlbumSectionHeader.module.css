@@ -1,0 +1,24 @@
+.heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 30px;
+    width: 99%;
+    padding: 0px 31px 20px 31px;
+}
+
+.heading1 {
+    color: var(--color--white);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    word-break: none;
+}
+
+.heading2 {
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--color--primary);
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+}
